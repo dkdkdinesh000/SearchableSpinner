@@ -30,6 +30,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.2.0'
 
     apply plugin: 'com.github.dcendents.android-maven'
-    group = 'com.github.MdFarhanRaja'
+    group = 'com.github.dkdkdinesh000'
     testCompile 'junit:junit:4.12'
 }
